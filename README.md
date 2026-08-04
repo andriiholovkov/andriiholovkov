@@ -145,7 +145,7 @@ Jest
 <table>
 <tr>
 
-<td align="center" width="168">
+<td align="center" width="168" height="168">
 <img  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" width="45" height="45"/><br/>
 <div>Tailwind</div>
 </td>
@@ -172,7 +172,7 @@ CSS3
 </tr>
 
 <tr>
-<td align="center" width="168">
+<td align="center" width="168" height="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/material-ui/default.svg"
   alt="Material UI"
@@ -215,7 +215,7 @@ CSS3
 <table>
 <tr>
 
-<td align="center" width="168">
+<td align="center" width="168" height="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg"
   alt="Node.js"
