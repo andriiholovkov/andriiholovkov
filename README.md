@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Andrii Holovkov</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=andriiholovkov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ###
 
 <p align="left">I'm experienced Frontend Developer in building responsive, intuitive web applications JavaScript, React and Next.js applications, with an extensive background in design. Focused on creating a clean and maintainable codebase, and adept at solving complex and significant tasks. I am eager to provide as possible value to company and work along with a highly skilled friendly team</p>
