@@ -3,9 +3,16 @@
 </p>
 # Hi 👋, I'm Andrii Holovkov
 
-Senior Frontend Developer specializing in React, Next.js and TypeScript with 5+ years of experience building scalable B2B SaaS products across FinTech, E-commerce, PropTech, AgriTech and Fitness.
+Senior Frontend Developer specializing in React, Next.js, and TypeScript with 5+ years of experience building scalable B2B SaaS products across FinTech, E-commerce, PropTech, AgriTech, and Fitness.
 
 I enjoy turning complex business requirements into intuitive, high-performance products. Combining a strong engineering mindset with a background in UI/UX design, I build maintainable architectures, scalable design systems, and data-intensive applications with a focus on performance, accessibility, and developer experience.
+
+### Connect with me
+
+- LinkedIn - https://www.linkedin.com/in/holovkov
+- Telegram - https://t.me/andrii_holovkov
+- Email - andriiholovkov@gmail.com
+- GitHub - https://github.com/andriiholovkov
 
 ## Tech Stack
 
@@ -251,10 +258,3 @@ CSS3
 
 </tr>
 </table>
-
-### Connect with me
-
-- LinkedIn - https://www.linkedin.com/in/holovkov
-- Telegram - https://t.me/andrii_holovkov
-- Email - andriiholovkov@gmail.com
-- GitHub - https://github.com/andriiholovkov
