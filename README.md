@@ -15,17 +15,17 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 
 <table>
 <tr>
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/><br/>
 <div>React</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/><br/>
 <div>Next.js</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg"
   alt="TypeScript"
@@ -35,7 +35,7 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 <div>TypeScript</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg"
   alt="JavaScript"
@@ -45,7 +45,7 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 <div>JavaScript</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg"
   alt="Claude"
@@ -57,7 +57,7 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 </tr>
 
 <tr>
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tanstack/default.svg"
   alt="TanStack"
@@ -67,22 +67,22 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 <div>TanStack Query</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45"/><br/>
 <div>GraphQL</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" width="45" height="45"/><br/>
 Zustand
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/><br/>
 Redux Toolkit
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/refine/default.svg"
   alt="Refine"
@@ -94,7 +94,7 @@ Refine
 </tr>
 
 <tr>
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/firebase/default.svg"
   alt="Firebase"
@@ -104,12 +104,12 @@ Refine
 Firebase
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="45" height="45"/><br/>
 <div>Zod</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vite/default.svg"
   alt="Vite"
@@ -119,7 +119,7 @@ Firebase
 Vite
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vitest/default.svg"
   alt="Vitest"
@@ -129,7 +129,7 @@ Vite
 Vitest
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/jest/default.svg"
   alt="Jest"
@@ -142,41 +142,39 @@ Jest
 </tr>
 </table>
 
----
-
 #### Styling & UI
 
 <table>
 <tr>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" width="45" height="45"/><br/>
 <div>Tailwind</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/shadcn-ui/default.svg" alt="shadcn/ui" width="45" /><br/>
 <div>shadcn/ui</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
 <div>HTML5<div/>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
 CSS3
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/><br/>
 <div>SCSS</div>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/material-ui/default.svg"
   alt="Material UI"
@@ -186,7 +184,7 @@ CSS3
 <div>Material UI</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://mantine.dev/favicon.svg" width="45"   height="45"/><br/>
 <div>Mantine</div>
 </td>
@@ -196,7 +194,7 @@ CSS3
 <div>Storybook</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gsap/default.svg"
   alt="GSAP"
@@ -206,7 +204,7 @@ CSS3
 <div>GSAP</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/motion/default.svg" alt="Motion" width="45" height="45" /><br/>
 <div>Motion</div>
 </td>
@@ -214,14 +212,12 @@ CSS3
 </tr>
 </table>
 
----
-
 #### Backend
 
 <table>
 <tr>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg"
   alt="Node.js"
@@ -231,22 +227,22 @@ CSS3
 <div>Node.js</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://nestjs.com/img/logo-small.svg" width="45"/><br/>
 <div>NestJS</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/>
 <div>PostgreSQL</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drizzle-orm/default.svg" alt="Drizzle ORM" width="45" /><br/>
 <div>Drizzle</div>
 </td>
 
-<td align="center" width="132">
+<td align="center" width="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg"
   alt="Docker"
@@ -258,7 +254,6 @@ CSS3
 </tr>
 </table>
 
----
 ### Connect with me
 
 - LinkedIn - https://www.linkedin.com/in/holovkov
