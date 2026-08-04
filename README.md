@@ -7,15 +7,13 @@ Senior Frontend Developer specializing in React, Next.js and TypeScript with 5+ 
 
 I enjoy turning complex business requirements into intuitive, high-performance products. Combining a strong engineering mindset with a background in UI/UX design, I build maintainable architectures, scalable design systems, and data-intensive applications with a focus on performance, accessibility, and developer experience.
 
----
-
 ## Tech Stack
 
 #### Core
 
 <table>
 <tr>
-<td align="center" width="168">
+<td align="center" width="168" height="168">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/><br/>
 <div>React</div>
 </td>
@@ -57,7 +55,7 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 </tr>
 
 <tr>
-<td align="center" width="168">
+<td align="center" width="168" height="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tanstack/default.svg"
   alt="TanStack"
@@ -94,7 +92,7 @@ Refine
 </tr>
 
 <tr>
-<td align="center" width="168">
+<td align="center" width="168" height="168">
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/firebase/default.svg"
   alt="Firebase"
