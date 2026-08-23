@@ -7,9 +7,10 @@ Senior Frontend Developer specializing in React, Next.js, and TypeScript with 5+
 
 I enjoy turning complex business requirements into intuitive, high-performance products. Combining a strong engineering mindset with a background in UI/UX design, I build maintainable architectures, scalable design systems, and data-intensive applications with a focus on performance, accessibility, and developer experience.
 
-### Open to new opportunities — feel free to reach out
+### Connect with me 
+<mark>► Open to new opportunities — feel free to reach out</mark>
 
-- LinkedIn - https://www.linkedin.com/in/holovkov
+- LinkedIn - https://www.linkedin.com/in/holovkov (primary contact)
 - Telegram - https://t.me/andrii_holovkov
 - Email - andriiholovkov@gmail.com
 - GitHub - https://github.com/andriiholovkov
