@@ -1,18 +1,19 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andriiholovkov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-# Hi 👋, I'm Andrii Holovkov
+Hi 👋, I'm Andrii Holovkov
 
 Senior Frontend Developer specializing in React, Next.js, and TypeScript with 5+ years of experience building scalable B2B SaaS products across FinTech, E-commerce, PropTech, AgriTech, and Fitness.
 
 I enjoy turning complex business requirements into intuitive, high-performance products. Combining a strong engineering mindset with a background in UI/UX design, I build maintainable architectures, scalable design systems, and data-intensive applications with a focus on performance, accessibility, and developer experience.
 
-### Connect with me
+### Open to new opportunities — feel free to reach out
 
 - LinkedIn - https://www.linkedin.com/in/holovkov
 - Telegram - https://t.me/andrii_holovkov
 - Email - andriiholovkov@gmail.com
 - GitHub - https://github.com/andriiholovkov
+- Portfolio - https://andrii-holovkov.vercel.app
 
 ## Tech Stack
 
