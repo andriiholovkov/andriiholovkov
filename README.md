@@ -9,6 +9,7 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 
 ### Connect with me 
 👉 Open to new opportunities — feel free to reach out.
+👉 Interested in full-time remote opportunities.
 
 - LinkedIn - https://www.linkedin.com/in/holovkov (primary contact)
 - Telegram - https://t.me/andrii_holovkov
