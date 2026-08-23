@@ -7,6 +7,8 @@ Senior Frontend Developer specializing in React, Next.js, and TypeScript with 5+
 
 I enjoy turning complex business requirements into intuitive, high-performance products. Combining a strong engineering mindset with a background in UI/UX design, I build maintainable architectures, scalable design systems, and data-intensive applications with a focus on performance, accessibility, and developer experience.
 
+**Resume:** [View / Download PDF](https://drive.google.com/drive/folders/17B2nWxINUK--JrJUjz4LN8dtNp__NFgP?usp=sharing)
+
 ### Connect with me 
 👉 Open to new opportunities — feel free to reach out.  
 👉 Interested in full-time remote opportunities.
