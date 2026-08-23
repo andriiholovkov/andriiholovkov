@@ -19,7 +19,7 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 - GitHub - https://github.com/andriiholovkov
 - Portfolio - https://andrii-holovkov.vercel.app
 
-### Tech Stack
+### Tech Stack:
 
 #### Core
 
