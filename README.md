@@ -21,245 +21,133 @@ I enjoy turning complex business requirements into intuitive, high-performance p
 
 ### Tech Stack:
 
-#### Core
-
 <table>
 <tr>
-<td align="center" width="100" height="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/>
-<div>React</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/><br/>
+<sub>React</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/><br/>
-<div>Next.js</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/><br/>
+<sub>Next.js</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg"
-  alt="TypeScript"
-  width="40"
-  height="40"
-/><br/>
-<div>TypeScript</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg" alt="TypeScript" width="40"/><br/>
+<sub>TypeScript</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg"
-  alt="JavaScript"
-  width="40"
-  height="40"
-/><br/>
-<div>JavaScript</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg" alt="JavaScript" width="40"/><br/>
+<sub>JavaScript</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg"
-  alt="Claude"
-  width="40"
-  height="40"
-/><br/>
-<div>Cloude Code</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" alt="Claude Code" width="40"/><br/>
+<sub>Claude Code</sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tanstack/default.svg" alt="TanStack Query" width="40"/><br/>
+<sub>TanStack Query</sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40"/><br/>
+<sub>GraphQL</sub>
+</td>
+<td align="center" width="10%">
+<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" alt="Zustand" width="40"/><br/>
+<sub>Zustand</sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40"/><br/>
+<sub>Redux Toolkit</sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/refine/default.svg" alt="Refine" width="40"/><br/>
+<sub>Refine</sub>
 </td>
 </tr>
 <tr></tr>
 <tr>
-<td align="center" width="100" height="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tanstack/default.svg"
-  alt="TanStack"
-  width="40"
-  height="40"
-/><br/>
-<div>TanStack Query</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/firebase/default.svg" alt="Firebase" width="40"/><br/>
+<sub>Firebase</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/><br/>
-<div>GraphQL</div>
+<td align="center" width="10%">
+<img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="Zod" width="40"/><br/>
+<sub>Zod</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" width="40" height="40"/><br/>
-Zustand
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vite/default.svg" alt="Vite" width="40"/><br/>
+<sub>Vite</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/><br/>
-Redux Toolkit
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vitest/default.svg" alt="Vitest" width="40"/><br/>
+<sub>Vitest</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/refine/default.svg"
-  alt="Refine"
-  width="40"
-  height="40"
-/><br/>
-Refine
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/jest/default.svg" alt="Jest" width="40"/><br/>
+<sub>Jest</sub>
 </td>
-</tr>
-<tr></tr>
-<tr>
-<td align="center" width="100" height="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/firebase/default.svg"
-  alt="Firebase"
-  width="40"
-  height="40"
-/><br/>
-Firebase
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" alt="Tailwind" width="40"/><br/>
+<sub>Tailwind</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="40" height="40"/><br/>
-<div>Zod</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/shadcn-ui/default.svg" alt="shadcn/ui" width="40"/><br/>
+<sub>shadcn/ui</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vite/default.svg"
-  alt="Vite"
-  width="40"
-  height="40"
-/><br/>
-Vite
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/><br/>
+<sub>HTML5</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vitest/default.svg"
-  alt="Vitest"
-  width="40"
-  height="40"
-/><br/>
-Vitest
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/><br/>
+<sub>CSS3</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/jest/default.svg"
-  alt="Jest"
-  width="40"
-  height="40"
-/><br/>
-Jest
-</td>
-
-</tr>
-</table>
-
-#### Styling & UI
-
-<table>
-<tr>
-
-<td align="center" width="100" height="100">
-<img  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" width="40" height="40"/><br/>
-<div>Tailwind</div>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/shadcn-ui/default.svg" alt="shadcn/ui" width="40" /><br/>
-<div>shadcn/ui</div>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
-<div>HTML5</div>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
-CSS3
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/><br/>
-<div>SCSS</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40"/><br/>
+<sub>SCSS</sub>
 </td>
 </tr>
 <tr></tr>
 <tr>
-<td align="center" width="100" height="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/material-ui/default.svg"
-  alt="Material UI"
-  width="40"
-  height="40"
-/><br/>
-<div>Material UI</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/material-ui/default.svg" alt="Material UI" width="40"/><br/>
+<sub>Material UI</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://mantine.dev/favicon.svg" width="40"   height="40"/><br/>
-<div>Mantine</div>
+<td align="center" width="10%">
+<img src="https://mantine.dev/favicon.svg" alt="Mantine" width="40"/><br/>
+<sub>Mantine</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40"   height="40"/><br/>
-<div>Storybook</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="40"/><br/>
+<sub>Storybook</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gsap/default.svg"
-  alt="GSAP"
-  width="40"
-  height="40"
-/><br/>
-<div>GSAP</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gsap/default.svg" alt="GSAP" width="40"/><br/>
+<sub>GSAP</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/motion/default.svg" alt="Motion" width="40" height="40" /><br/>
-<div>Motion</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/motion/default.svg" alt="Motion" width="40"/><br/>
+<sub>Motion</sub>
 </td>
-
-</tr>
-</table>
-
-#### Backend
-
-<table>
-<tr>
-
-<td align="center" width="100" height="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg"
-  alt="Node.js"
-  width="40"
-  height="40"
-/><br/>
-<div>Node.js</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg" alt="Node.js" width="40"/><br/>
+<sub>Node.js</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://nestjs.com/img/logo-small.svg" width="40"/><br/>
-<div>NestJS</div>
+<td align="center" width="10%">
+<img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40"/><br/>
+<sub>NestJS</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>
-<div>PostgreSQL</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/><br/>
+<sub>PostgreSQL</sub>
 </td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drizzle-orm/default.svg" alt="Drizzle ORM" width="40" /><br/>
-<div>Drizzle</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/drizzle-orm/default.svg" alt="Drizzle" width="40"/><br/>
+<sub>Drizzle</sub>
 </td>
-
-<td align="center" width="100">
-<img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg"
-  alt="Docker"
-  width="40"
-/><br/>
-<div>Docker</div>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" alt="Docker" width="40"/><br/>
+<sub>Docker</sub>
 </td>
-
 </tr>
 </table>
